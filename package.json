@@ -1,0 +1,17 @@
+{
+  "name": "kashif",
+  "version": "1.0.0",
+  "description": "This package created while studing and exploring express and node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "node index"
+  },
+  "keywords": [],
+  "author": "kashif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
